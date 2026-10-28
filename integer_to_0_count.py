@@ -2,7 +2,7 @@ num=int(input("Enter number:"))
 count=0
 while(num>0):
     if num%2==0:
-        num=num/2
+        num=num//2
         count+=1
     else:
         num-=1
