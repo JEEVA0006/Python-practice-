@@ -22,6 +22,6 @@ Counts the steps required to reduce a number to zero using specified operations.
 
 Calculates the number of days Alice and Bob are in Rome at the same time.
 
-🎯 Goal
+ Goal
 
 To practice Python programming, improve logical thinking, and document my coding journey.
