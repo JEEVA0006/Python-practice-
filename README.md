@@ -1,10 +1,10 @@
-Python Practice Programs 🐍
+Python Practice Programs 
 
 Welcome to my Python practice repository!
 
 This repository contains four Python programs I created while learning Python and improving my problem-solving skills.
 
-📚 Programs
+ Programs
 
 1. Palindrome Checker
 
